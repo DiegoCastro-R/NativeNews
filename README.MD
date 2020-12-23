@@ -1,7 +1,7 @@
 # NativeNews
 
 ![Stacks](https://miro.medium.com/proxy/1*CHH1P0NwJfZzXXHo-VUzOA.png)
-
+<img src="/demo.gif" width="250"/> 
 # APK Disponivel em:
 https://github.com/DiegoCastro-R/NativeNews/releases/tag/v0.1-beta
 
