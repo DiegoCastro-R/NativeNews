@@ -6,11 +6,22 @@
 https://github.com/DiegoCastro-R/NativeNews/releases/tag/v0.1-beta
 
 ## Features
+   ## Tech:
     * [x] React Native
     * [x] Typescript
     * [x] Express
     * [x] Eslint
     * [x] Prettier
+   
+   ## Pages:
+    * [x] Home
+    * [x] Covid
+    * [x] Camara
+    * [] Comunicar
+    * [] Protecao Civil
+    * [] Agenda
+    
+   
 
 # About
 Aplicativo desenvolvido utilizando Typescript, juntamente com React Native na camada do FrontEnd.
