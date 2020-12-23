@@ -1,7 +1,6 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/diegocastro-r/expressapitemplate/badge/master)](https://www.codefactor.io/repository/github/diegocastro-r/expressapitemplate/overview/master)
-![Docker + NodeJS](https://miro.medium.com/max/875/1*gX-N6cHK9p715OUKmNiX5g.jpeg)
+![Typescript + NodeJS](https://miro.medium.com/max/600/1*ZZRtwzUVGyBkfkKurbHjwg.png)
 ## Features
-    * [x] Docker
     * [x] Typescript
     * [x] Express
     * [x] Eslint
@@ -33,8 +32,4 @@
     - `cd /NativeNews/API`
     - `yarn`
     - `yarn dev:server`
-
-4. Executando em Container Docker:
-    - `cd /NativeNews/API`
-    - `docker-compose up -d`
 
