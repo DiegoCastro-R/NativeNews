@@ -21,7 +21,7 @@ ExpressJS utilizando Typescript.
 
 # API DOCS: 
 ![API](https://kleimo-blog.s3.amazonaws.com/2016/Jan/aws_nginx-1451949046231.png)
-
+## Executando API Localmente: https://github.com/DiegoCastro-R/NativeNews/blob/master/API/README.MD
 ## URL Base: http://3.22.171.63/ (Online na AWS EC2, com Proxy Nginx)
 
 # Rotas
