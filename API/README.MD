@@ -1,4 +1,3 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/diegocastro-r/expressapitemplate/badge/master)](https://www.codefactor.io/repository/github/diegocastro-r/expressapitemplate/overview/master)
 ![Typescript + NodeJS](https://miro.medium.com/max/600/1*ZZRtwzUVGyBkfkKurbHjwg.png)
 ## Features
     * [x] Typescript
